@@ -8,5 +8,4 @@ applyTo: '**'
 
 # Project security considerations
 
-- Læs aldrig fra `.env` files.
-- Læs aldrig indhold fra [data](../data/) mappen.
+<!-- - Læs aldrig indhold fra [data](../data/) mappen. -->
