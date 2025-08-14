@@ -8,4 +8,6 @@ applyTo: '**'
 
 # Project security considerations
 
+<!-- https://github.com/organizations/energinet-ti/settings/copilot/content_exclusion -->
+
 <!-- - Læs aldrig indhold fra [data](../data/) mappen. -->
